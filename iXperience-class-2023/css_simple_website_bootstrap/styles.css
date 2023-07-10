@@ -1,0 +1,88 @@
+/* .first-div {
+    color: blue;
+    font-size: 20px;
+  }
+
+.container {
+    padding: 300px;
+    color: white;
+    background-color: 	#383838;
+
+    justify-content: center;
+    text-align: center;
+}
+
+.read-button {
+    padding: 20px;
+    width: 250px;
+}
+
+.second-container {
+    padding: 100px;
+    color: 	#383838;
+    background-color: 	#D3D3D3;
+
+    justify-content: center;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    padding-left: 50px;
+    text-align: left;
+  }
+  
+  .column {
+    flex: 50%;
+    text-align: left;
+  }
+
+.third-container {
+    padding: 300px;
+    color: white;
+    background-color: 	#383838;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 33%;
+    height: 400px;
+    border-radius: 5px;
+}
+
+
+.box {
+    width: calc(33.333333% - 20px);
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+#big-block {
+    width: calc(66.666666% - 20px);
+}
+
+.shaq-image {
+    width: 400px;
+    border-radius: 50%;
+    height: 400px;
+    object-fit: cover;
+} */
+
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.col { 
+    margin-bottom: 15px;
+  }
+  .card {
+    height: 100%;
+  }
